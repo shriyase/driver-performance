@@ -28,7 +28,8 @@ Correlation heatmaps and regression plots were created to visualize the influenc
 A logistic regression model was built to predict whether a driver would improve in their next race based on previous race performance and Twitter sentiment.
 
 ### Key Findings
-![image](https://github.com/user-attachments/assets/a53f1265-6ce8-416f-92b0-fde12b5cdd98)
+![image](https://github.com/user-attachments/assets/612208a9-914c-4a84-b185-f775309728ef)
+
 The image above shows the correlation between average compounded sentiment for each driver in the last week from all tweets vs the position gained by the driver relative to their last race.
 
 - Qualifying Impact: Positive sentiment correlates with better qualifying results, which may lead to increased pressure or overconfidence.
