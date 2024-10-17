@@ -1,5 +1,6 @@
 # The Effect of Twitter Sentiments on Driver Performance in Formula One Racing
 Examining the relationship between public sentiment and F1 driver performance through data manipulation and analysis.
+
 Contributors: Shriya Ejanthker, Stephen Bloust, Elysia Pil
 
 ### Project Overview
