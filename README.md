@@ -28,6 +28,9 @@ Correlation heatmaps and regression plots were created to visualize the influenc
 A logistic regression model was built to predict whether a driver would improve in their next race based on previous race performance and Twitter sentiment.
 
 ### Key Findings
+![image](https://github.com/user-attachments/assets/a53f1265-6ce8-416f-92b0-fde12b5cdd98)
+The image above shows the correlation between average compounded sentiment for each driver in the last week from all tweets vs the position gained by the driver relative to their last race.
+
 - Qualifying Impact: Positive sentiment correlates with better qualifying results, which may lead to increased pressure or overconfidence.
 Race Performance: More positive sentiment is unexpectedly associated with a decrease in race performance.
 - Psychological Hypothesis: The project hypothesizes that drivers may feel overwhelmed by fan expectations or overconfident after receiving positive social media attention.
@@ -35,7 +38,6 @@ Race Performance: More positive sentiment is unexpectedly associated with a decr
 ### Results
 - The prediction model achieved an accuracy of 73.74% with reasonable precision, recall, and F1 scores.
 - Positive sentiment is generally correlated with poorer race performance, possibly due to the psychological pressure of meeting fan expectations.
-
 ### Future Work
 -Real-time sentiment monitoring during race weekends could be explored to provide teams with actionable insights on public perception.
 -Further research could investigate the psychological effects of social media engagement on driver performance.
