@@ -40,5 +40,5 @@ Race Performance: More positive sentiment is unexpectedly associated with a decr
 - The prediction model achieved an accuracy of 73.74% with reasonable precision, recall, and F1 scores.
 - Positive sentiment is generally correlated with poorer race performance, possibly due to the psychological pressure of meeting fan expectations.
 ### Future Work
--Real-time sentiment monitoring during race weekends could be explored to provide teams with actionable insights on public perception.
--Further research could investigate the psychological effects of social media engagement on driver performance.
+Real-time sentiment monitoring during race weekends could be explored to provide teams with actionable insights on public perception.
+Further research could investigate the psychological effects of social media engagement on driver performance.
